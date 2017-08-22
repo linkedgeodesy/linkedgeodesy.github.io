@@ -2,7 +2,11 @@
 
 [![](https://avatars2.githubusercontent.com/u/31200380?v=4&s=250)](https://github.com/linkedgeodesy)
 
-This ist the official GitHub Repo for Linked Geodesy. Just explore it!
+**This ist the official GitHub Repo of Linked Geodesy.**
+
+**More at [LinkedGeodesy.org](http://linkedgeodesy.org).**
+
+**Just explore it!**
 
 # Repos
 
@@ -13,6 +17,10 @@ This ist the official GitHub Repo for Linked Geodesy. Just explore it!
 ## Linked Data
 
 * [geojson-ld-lg](https://github.com/linkedgeodesy/geojson-ld-lg)
+
+# Related Repos
+
+* [florianthiery](https://florianthiery.github.io)
 
 *last update on 8/2017*
 
