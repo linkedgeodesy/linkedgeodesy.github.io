@@ -12,11 +12,12 @@
 
 ## Maven JAR libs
 
-* [jena-ext](https://github.com/linkedgeodesy/jena-ext)
+* [jena-ext](https://github.com/linkedgeodesy/jena-ext.git)
+* [gazetteer-json](https://github.com/linkedgeodesy/gazetteer-json.git)
 
 ## Linked Data
 
-* [geojson-ld-lg](https://github.com/linkedgeodesy/geojson-ld-lg)
+* [geojson-ld-lg](https://github.com/linkedgeodesy/geojson-ld-lg.git)
 
 # Related Repos
 
