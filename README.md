@@ -17,12 +17,19 @@
 
 ## Linked Data
 
-* [geojson-ld-lg](https://github.com/linkedgeodesy/geojson-ld-lg.git)
+* [geojson-plus](https://github.com/linkedgeodesy/geojson-plus.git)
+ *  [http://geojsonplus.linkedgeodesy.org](http://geojsonplus.linkedgeodesy.org)
+* [geojson-plus-ld](https://github.com/linkedgeodesy/geojson-plus-ld.git)
+ *  [http://geojsonplus.linkedgeodesy.org/vocab](http://geojsonplus.linkedgeodesy.org/vocab)
+
+## Web-Apps
+
+* [opossum](https://github.com/linkedgeodesy/opossum.git)
 
 # Related Repos
 
 * [florianthiery](https://florianthiery.github.io)
 
-*last update on 8/2017*
+*last update on 11/2017*
 
 {% include footer.htm %}
